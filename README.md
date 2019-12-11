@@ -4,7 +4,7 @@ A C# ASP.NET Web API project that exposes all data from project [DAWA-Replicatio
 
 Get municipality Helsingør (kommunekode=217) example: http://xyz/odata/Kommune?$filter=Kode eq '0217'
 
-NOTE: All files in folder JOInformatik.DawaReplication.DataAccess is a copy of same folder in [DAWA-Replication](https://github.com/JO-Informatik-ApS/DAWA-Replication).
+NOTE: All files in folder JOInformatik.DawaReplication.DataAccess is a copy of [DAWA-Replication/JOInformatik.DawaReplication.DataAccess](https://github.com/JO-Informatik-ApS/DAWA-Replication/tree/master/JOInformatik.DawaReplication.DataAccess).
 
 ## Introduction
 
