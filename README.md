@@ -4,6 +4,8 @@ A C# ASP.NET Web API project that exposes all data from project [DAWA-Replicatio
 
 Get municipality Helsingør (kommunekode=217) example: http://xyz/odata/Kommune?$filter=Kode eq '0217'
 
+NOTE: All files in folder JOInformatik.DawaReplication.DataAccess is a copy of same folder in [DAWA-Replication](https://github.com/JO-Informatik-ApS/DAWA-Replication).
+
 ## Introduction
 
 Danmarks Adressers Web API (DAWA) is a project that exposes Danish address, street, city name, municipality, various geometry, and other data for everyone to search in and download to have their own copy of. DAWA has a couple of API's, one where you can do search queries, and another to replicate data. You can visit their website and read more about them and what kinds of data you have access to via their API's at [http://dawa.aws.dk/](http://dawa.aws.dk/ "Danmarks Adressers Web API").
