@@ -1,9 +1,8 @@
 # DAWA Replication.OData
 
-A C# ASP.NET Web API project that exposes all data from project DawaReplication as OData V4 RESTful APIs.
+A C# ASP.NET Web API project that exposes all data from project https://github.com/JO-Informatik-ApS/DAWA-Replication as OData V4 RESTful APIs. More about OData: https://www.odata.org/
 
 Get municipality Helsingør (kommunekode=217) example: http://xyz/odata/Kommune?$filter=Kode eq '0217'
-More about OData: https://www.odata.org/
 
 ## Introduction
 
@@ -17,7 +16,7 @@ This instruction will guide you on how to setup and get the webservice running.
 
 ### Prerequisites
 
-Get and install project DawaReplication first. Fill your database with DAWA data. Then get this project.
+Get and install project https://github.com/JO-Informatik-ApS/DAWA-Replication first. Fill your database with DAWA data. Then get this project.
 You will at the minimum need an SQL Server version 12 paired with the latest security updates running on your system.
 You will also need the .NET CORE 2.1 and .NET Framework 3.5 or higher to run this webservice.
 
