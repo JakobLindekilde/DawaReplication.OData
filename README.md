@@ -1,6 +1,7 @@
 # DAWA Replication.OData
 
 A C# ASP.NET Web API project that exposes all data from project DawaReplication as OData V4 RESTful APIs.
+
 Get municipality Helsingør (kommunekode=217) example: http://xyz/odata/Kommune?$filter=Kode eq '0217'
 More about OData: https://www.odata.org/
 
