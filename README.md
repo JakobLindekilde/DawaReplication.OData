@@ -18,7 +18,7 @@ This instruction will guide you on how to setup and get the webservice running.
 
 Get and install project [DAWA-Replication](https://github.com/JO-Informatik-ApS/DAWA-Replication) first. Fill your database with DAWA data. Then get this project.
 You will at the minimum need an SQL Server version 12 paired with the latest security updates running on your system.
-You will also need the .NET CORE 2.1 and .NET Framework 3.5 or higher to run this webservice.
+You will also need the .NET CORE 2.1 and .NET Framework 4.5 or higher to run this webservice.
 
 ```
 SQL Server 12 or higher.
