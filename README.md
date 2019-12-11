@@ -27,9 +27,9 @@ SQL Server 12 or higher.
 .NET Framework 4.5 or higher.
 ```
 
-## Running the program
+## Running the webservice
 
-Open the Visual Studio projectfile DawaReplication.OData.sln and hit F5. See OData examples in file ReadMe.txt.
+Open the Visual Studio projectfile DawaReplication.OData.sln, set database connectionstring in appsettings.json, and hit F5. See OData examples in file ReadMe.txt.
 
 ## Releases
 
