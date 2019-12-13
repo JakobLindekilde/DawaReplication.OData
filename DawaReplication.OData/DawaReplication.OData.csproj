@@ -7,13 +7,13 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <WarningsAsErrors />
-    <NoWarn>NU1608, NU1702</NoWarn>
+    <NoWarn>NU1608, NU1702, NU1201</NoWarn>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <WarningsAsErrors />
-    <NoWarn>NU1608, NU1702</NoWarn>
+    <NoWarn>NU1608, NU1702, NU1201</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
